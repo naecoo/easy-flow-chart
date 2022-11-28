@@ -1,0 +1,12 @@
+{
+  "name": "easy-flow-chart",
+  "version": "0.0.1-beta1",
+  "description": "Simple and powerful flow chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
