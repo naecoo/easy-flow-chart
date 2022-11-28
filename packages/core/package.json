@@ -1,0 +1,9 @@
+{
+  "name": "easy-flow-chart",
+  "version": "0.0.1",
+  "author": "ocean<ocean7hy@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@7.13.0",
+  "description": "Simple and powerful flow chart",
+  "scripts": {}
+}

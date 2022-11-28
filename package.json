@@ -1,12 +1,17 @@
 {
   "name": "easy-flow-chart",
   "version": "0.0.1-beta1",
-  "description": "Simple and powerful flow chart",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "private": true,
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "packageManager": "pnpm@7.13.0",
+  "description": "Simple and powerful flow chart",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.31.0",
+    "eslint": "^8.28.0"
+  }
 }
