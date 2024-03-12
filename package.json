@@ -1,0 +1,26 @@
+{
+  "name": "easy-flow-chart",
+  "version": "0.0.1",
+  "author": {
+    "name": "naecoo",
+    "email": "ocean7hy@gmail.com",
+    "url": "https://naecoo.github.io"
+  },
+  "homepage": "https://www.github.com/naecoo/easy-flow-chart",
+  "license": "MIT",
+  "description": "",
+  "keywords": [],
+  "files": ["dist"],
+  "types": "module",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "default": "./dist/index.js"
+  },
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typescript": "^5.3.3"
+  }
+}
